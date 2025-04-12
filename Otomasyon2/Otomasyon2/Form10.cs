@@ -47,7 +47,6 @@ namespace Otomasyon2
         }
 
 
-
         private void btnOkundu_Click(object sender, EventArgs e)
         {
             if (gridViewOneri.SelectedRows.Count > 0)
