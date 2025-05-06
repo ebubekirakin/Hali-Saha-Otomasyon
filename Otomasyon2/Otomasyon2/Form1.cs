@@ -9,6 +9,8 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Security.Cryptography;
 
+
+
 namespace Otomasyon2
 {
     public partial class FormGiris : DevExpress.XtraEditors.XtraForm
