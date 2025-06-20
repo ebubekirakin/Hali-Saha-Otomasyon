@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Windows.Forms;
 
+
 namespace Otomasyon2
 {
     public partial class Form10 : DevExpress.XtraEditors.XtraForm
